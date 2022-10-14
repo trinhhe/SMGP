@@ -1,0 +1,22 @@
+# build folders
+build
+build-debug
+build-release
+release
+debug
+
+# Data examples used for debugging
+data/examples
+data/test
+
+data/faces_rigid/*.obj
+data/faces_warped/*.obj
+data/landmarks/*.txt
+
+# Editor specific stuff
+compile_commands.json
+.idea
+.vscode
+.clangd
+.cache
+.DS_Store
